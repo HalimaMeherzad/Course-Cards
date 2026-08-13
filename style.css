@@ -52,7 +52,7 @@
 .course-card h3{
     margin-bottom: 5px;
     color: #211e31;
-    font-size: 25px;
+    font-size: 18px;
 }
 .card-contain{
     padding-left: 20px;
@@ -67,6 +67,7 @@
 .course-card .number{
     color: #211e31;
     font-weight: 700;
+    font-size: 15px;
 }
 .fa-solid{
     font-size: 12px;
@@ -78,6 +79,7 @@
 
 .course-card span{
     color:#7a797f;
+    font-size: 13px;
 }
 .card-footer{
     display: flex;
@@ -90,6 +92,7 @@
     color: #6e51c8;
     text-decoration: none;
     font-weight: 600;
+    font-size: 15px;
     
 
 }
