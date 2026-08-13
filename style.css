@@ -33,8 +33,13 @@
     border: 1px solid #dbdada;
     box-shadow: 1px 1px 5px #e5e4e4;
     border-radius: 12px;
+    transform: translateY(-6);
     
 
+}
+.course-card:hover{
+    box-shadow: 1px 1px 8px #a09f9f ;
+    transition: transform ease 0.4s;
 }
 .course-card img{
     width: 100%;
